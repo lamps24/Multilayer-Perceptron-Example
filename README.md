@@ -2,4 +2,4 @@
 Matlab demonstration of a multilayer perceptron
 
 
-This is an excerpt of the code I used to create a multilayer perceptron in Matlab, to demonstrate the skill. 
+This is an excerpt of code I used to create a multilayer perceptron in Matlab, to demonstrate the skill. 
